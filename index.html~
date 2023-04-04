@@ -30,11 +30,13 @@
       <main id="projects">
         <div class="recipe a">
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-1.png" />
-          <h2>CHOCOLATE MOUSSE</h2>
+          <h2>Baklava</h2>
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
           <p class="mins">20 mins</p>
           <p class="description">
-            This delicious chocolate mousse will delight dinner guests of all ages!</p>
+            Baklava is a honey-sweetened dessert comprised of layers of flaky phyllo pastry filled with ground nuts. 
+            Baklava is a treat enjoyed by people all over the world and is known for its delightful combination of textures and flavors.
+            </p>
         </div>
         <div class="recipe b">
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-2.png" />
